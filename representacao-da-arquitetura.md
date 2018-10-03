@@ -73,5 +73,4 @@ A figura US010 ilustra a necessidade do usuário visualizar o seu amigo secreto 
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US010 — Visualizar Amigo Secreto Sorteado]</h5>
 
 
-
 ###  ...
