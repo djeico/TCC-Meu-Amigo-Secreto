@@ -34,7 +34,8 @@ Fonte: Desenvolvido pelo autor do Projeto [Figura US002 — Convidar partici
 
 Na figura US003 é demonstrada a necessidade de cadastrar as preferências de presentes dos participantes.
 ![Preview](/images/user-estory/US003.png?raw=true "Figura US003 — Cadastrar preferências de presentes")
-Fonte: Desenvolvido pelo autor do Projeto [Figura US003 — Cadastrar preferências de presentes]
+
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US003 — Cadastrar preferências de presentes]
 
 Na figura US004 é descrita a necessidade dos usuários de trocar mensagens com os participantes da lista de amigo secreto a qual fazem parte.
 ![Preview](/images/user-estory/US004.png?raw=true "Figura US004 — Enviar mensagens aos participantes")
