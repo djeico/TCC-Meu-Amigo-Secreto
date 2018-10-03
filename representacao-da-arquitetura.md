@@ -5,6 +5,7 @@
 O modelo de arquitetura adotado foi MVC.
 
 A Model consiste nos dados da aplicação, regras de negócios, lógica e funções. A View trata de exibir a aparência ou estrutura que o usuário verá na tela. A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
+
 ![Preview](/images/arquitecture/arq002.png?raw=true "Figura ARQ002 — Estrutura MVC")
 
 * A
