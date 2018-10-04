@@ -8,12 +8,8 @@ A Model consiste nos dados da aplicação, regras de negócios, lógica e funç�
 
 ![Preview](/images/arquitecture/arq002.png?raw=true "Figura ARQ002 — Estrutura MVC")
 
-* A
-* B
-* C
-* D
 
-![Preview](/images/arquitecture/Arquitetura.png?raw=true "Figura ARQ001 — Arquitetura Geral do Sistema")
+![Preview](/images/arquitecture/arq001.png?raw=true "Figura ARQ001 — Arquitetura Geral do Sistema")
 
 ## Visão Lógica
 
