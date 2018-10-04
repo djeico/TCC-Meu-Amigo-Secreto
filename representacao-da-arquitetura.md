@@ -2,9 +2,11 @@
 
 ## Modelo de Arquitetura
 
-O modelo de arquitetura adotado foi MVC.
+O modelo de arquitetura adotado para este projeto foi o MVC.
 
-A Model consiste nos dados da aplicação, regras de negócios, lógica e funções. A View trata de exibir a aparência ou estrutura que o usuário verá na tela. A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
+A Model consiste nos dados da aplicação, regras de negócios, lógica e funções. Possibilita o reaproveitamento de código e otimização do tempo de desenvolvimento. 
+A View trata de exibir a aparência ou estrutura que o usuário verá na tela. É por onde o usuário irá realizar as entradas e obterá os resultados da aplicação, ou seja, irá interagir com a aplicação. 
+A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
 
 ![Preview](/images/arquitecture/arq002.png?raw=true "Figura ARQ002 — Estrutura MVC")
 
@@ -35,9 +37,9 @@ Na figura US003 é demonstrada a necessidade de cadastrar as preferências de pr
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US003 — Cadastrar preferências de presentes]</h5>
 
 
-Na figura US004 é descrita a necessidade dos usuários de trocar mensagens com os participantes da lista de amigo secreto a qual fazem parte.
+Na figura US004 ilustra a necessidade do usuário visualizar o seu amigo secreto sorteado, ao qual deverá presentear.
 
-![Preview](/images/user-estory/US004.png?raw=true "Figura US004 — Enviar mensagens aos participantes")
+![Preview](/images/user-estory/US004.png?raw=true "Figura US004 — Visualizar Amigo Secreto Sorteado")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US004 — Enviar mensagens aos participantes]</h5>
 
 
@@ -66,14 +68,14 @@ A Figura US008 ilustra a necessidade do usuário utilizar a área de login para 
 
 Na figura US009 o usuário descreve a necessidade de atualizar as suas informações de perfil de usuário.
 
-![Preview](/images/user-estory/US008.png?raw=true "Figura US009 — Visualizar e Editar Perfil")
+![Preview](/images/user-estory/US009.png?raw=true "Figura US009 — Visualizar e Editar Perfil")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US009 — Visualizar e Editar Perfil]</h5>
 
 
-A figura US010 ilustra a necessidade do usuário visualizar o seu amigo secreto sorteado, ao qual deverá presentear.
+A figura US010 é descrita a necessidade dos usuários de trocar mensagens com os participantes da lista de amigo secreto a qual fazem parte.
 
 ![Preview](/images/user-estory/US010.png?raw=true "Figura US010 — Visualizar Amigo Secreto Sorteado")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US010 — Visualizar Amigo Secreto Sorteado]</h5>
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US010 — Enviar mensagens aos participantes]</h5>
 
 
 ###  ...
