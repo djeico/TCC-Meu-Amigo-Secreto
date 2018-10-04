@@ -9,7 +9,7 @@ A View trata de exibir a aparência ou estrutura que o usuário verá na tela. �
 A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
 
 ![Preview](/images/arquitecture/arq002.png?raw=true "Figura ARQ002 — Estrutura MVC")
-
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura ARQ002 — Estrutura MVC]</h5>
 
 ## Visão Lógica
 
@@ -78,4 +78,14 @@ A figura US010 é descrita a necessidade dos usuários de trocar mensagens com o
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura US010 — Enviar mensagens aos participantes]</h5>
 
 
-###  ...
+#### Product Backlog
+Abaixo segue o Product Backlog do projeto App MAS - Meu Amigo Secreto. Nele é possível verificar a distribuição das tarefas nas sprints e suas prioridades de execução.
+
+![Preview](/images/backlog/back001.png?raw=true "Figura BACK001 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
+
+
+
+
+
+
