@@ -93,34 +93,34 @@ Abaixo segue o Backlog Item do projeto App MAS - Meu Amigo Secreto. Nele é poss
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
 
 
-## [ ??? Visão Lógica ???? ]
+## Visão Física
 
 ### Wireframes
 Abaixo, seguem os wireframes do projeto, utilizados para criação da interface gráfica do projeto.
 
-#### Cadastro de Usuários
-![Preview](/images/wireframe/WIR001.png?raw=true "Figura WIR001 — Product Backlog")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
+#### Interface da listagem de amigo secreto
+![Preview](/images/wireframe/WIR001.png?raw=true "Figura WIR001 — Tela com as Listas de Amigo Secreto do MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Listas de Amigo Secreto]</h5>
 
 
 
-#### Cadastro de Usuários
-![Preview](/images/wireframe/WIR002.png?raw=true "Figura WIR002 — Product Backlog")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR002 — Product Backlog]</h5>
+#### Interface do Profile do usuário
+![Preview](/images/wireframe/WIR002.png?raw=true "Figura WIR002 — Tela de Profile do MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR002 — Profile]</h5>
 
 
-#### Cadastro de Usuários
-![Preview](/images/wireframe/WIR003.png?raw=true "Figura WIR003 — Product Backlog")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Product Backlog]</h5>
+#### Interface da Interação de usuários via mensagens
+![Preview](/images/wireframe/WIR003.png?raw=true "Figura WIR003 — Tela de troca de mensagens entre usuários do MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Lista de mensagens trocadas entre usuários do MAS]</h5>
 
 
-#### Cadastro de Usuários
-![Preview](/images/wireframe/WIR004.png?raw=true "Figura WIR004 — Product Backlog")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR004 — Product Backlog]</h5>
+#### Interface da listagem de mensagens trocadas
+![Preview](/images/wireframe/WIR004.png?raw=true "Figura WIR004 — Listagem com as mensagens trocadas entre usuários do MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR004 — Lista de mensagens]</h5>
 
 
-#### Cadastro de Usuários
-![Preview](/images/wireframe/WIR005.png?raw=true "Figura WIR005 — Product Backlog")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Product Backlog]</h5>
+#### Interface da listagem das preferências de presentes
+![Preview](/images/wireframe/WIR005.png?raw=true "Figura WIR005 — Listagem com as preferências de presentes dos usuários do MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Lista com as preferências de presentes]</h5>
 
 
