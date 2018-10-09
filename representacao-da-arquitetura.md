@@ -96,7 +96,7 @@ Abaixo segue o Backlog Item do projeto App MAS - Meu Amigo Secreto. Nele é poss
 ## Visão Física
 
 ### Wireframes
-Abaixo, seguem os wireframes do projeto, utilizados para criação da interface gráfica do projeto.
+Abaixo, seguem os wireframes do projeto, utilizados para criação da interface gráfica do projeto. Estes wireframes foram utilizados como base para a criação das telas da aplicação.
 
 #### Interface da listagem de amigo secreto
 ![Preview](/images/wireframe/WIR001.png?raw=true "Figura WIR001 — Tela com as Listas de Amigo Secreto do MAS")
