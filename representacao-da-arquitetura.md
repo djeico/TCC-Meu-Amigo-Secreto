@@ -93,7 +93,15 @@ Abaixo segue o Backlog Item do projeto App MAS - Meu Amigo Secreto. Nele é poss
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
 
 
+## [ ??? Visão Lógica ???? ]
 
+### Wireframes
+Abaixo, seguem os wireframes do projeto, utilizados para criação da interface gráfica do projeto.
+
+#### Cadastro de Usuários
+[colocar imagem do wireframe]
+![Preview](/images/backlog/back001.png?raw=true "Figura BACK001 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
 
 
 
