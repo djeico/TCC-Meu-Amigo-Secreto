@@ -99,10 +99,28 @@ Abaixo segue o Backlog Item do projeto App MAS - Meu Amigo Secreto. Nele é poss
 Abaixo, seguem os wireframes do projeto, utilizados para criação da interface gráfica do projeto.
 
 #### Cadastro de Usuários
-[colocar imagem do wireframe]
-![Preview](/images/backlog/back001.png?raw=true "Figura BACK001 — Product Backlog")
+![Preview](/images/wireframe/WIR001.png?raw=true "Figura WIR001 — Product Backlog")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura BACK001 — Product Backlog]</h5>
 
 
+
+#### Cadastro de Usuários
+![Preview](/images/wireframe/WIR002.png?raw=true "Figura WIR002 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR002 — Product Backlog]</h5>
+
+
+#### Cadastro de Usuários
+![Preview](/images/wireframe/WIR003.png?raw=true "Figura WIR003 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Product Backlog]</h5>
+
+
+#### Cadastro de Usuários
+![Preview](/images/wireframe/WIR004.png?raw=true "Figura WIR004 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR004 — Product Backlog]</h5>
+
+
+#### Cadastro de Usuários
+![Preview](/images/wireframe/WIR005.png?raw=true "Figura WIR005 — Product Backlog")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Product Backlog]</h5>
 
 
