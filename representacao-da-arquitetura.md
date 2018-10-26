@@ -4,12 +4,30 @@
 
 O modelo de arquitetura adotado para este projeto foi o MVC.
 
-A Model consiste nos dados da aplicação, regras de negócios, lógica e funções. Possibilita o reaproveitamento de código e otimização do tempo de desenvolvimento. 
-A View trata de exibir a aparência ou estrutura que o usuário verá na tela. É por onde o usuário irá realizar as entradas e obterá os resultados da aplicação, ou seja, irá interagir com a aplicação. 
+A Model consiste nos dados da aplicação, regras de negócios, lógica e funções. Possibilita o reaproveitamento de código e otimização do tempo de desenvolvimento.
+A View trata de exibir a aparência ou estrutura que o usuário verá na tela. É por onde o usuário irá realizar as entradas e obterá os resultados da aplicação, ou seja, irá interagir com a aplicação.
 A Controller fará a mediação das entradas, convertendo-as em comandos para a Model ou para a View.
 
 ![Preview](/images/arquitecture/arq002.png?raw=true "Figura ARQ002 — Estrutura MVC")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura ARQ002 — Estrutura MVC]</h5>
+
+## Representação do Banco de Dados - Collections
+Os esquemas apresentados abaixo têm o objetivo de ilustrar o relacionamento dos objetos no banco de dados.
+
+A figura COL001 demonstra a coleção responsável por armazenar os dados dos usuários cadastrados. Esta mesma estrutura é utilizada em outras Collections, conforme será apresentado mais abaixo.
+
+![Preview](/images/collection/COL001.png?raw=true "Figura COL001 — Collection User")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura COL001 — Collection User]</h5>
+
+A figura COL002 ilustra a coleção responsável por armazenar os dados das listas de amigo secreto criadas. Ela também é responsável por encapsular as coleções de mensagens, sugestões de presentes e o sorteio da lista.
+
+![Preview](/images/collection/COL002.png?raw=true "Figura COL002 — Collection User")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura Collection Lista de Amigo Secreto]</h5>
+
+
+
+
+
 
 ## Visão Lógica
 
@@ -124,3 +142,6 @@ Abaixo, seguem os wireframes do projeto, utilizados para criação da interface 
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Lista com as preferências de presentes]</h5>
 
 
+## Componentes reutilizados e sua aplicação no projeto
+Neste capítulo constam todos os materiais que foram reutilizados, ou seja, que
+possuem outras origens, tais como frameworks, bibliotecas, api’s, etc.:
