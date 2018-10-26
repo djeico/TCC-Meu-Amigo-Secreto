@@ -1,5 +1,6 @@
 # TCC-Meu-Amigo-Secreto
-Trabalho de Conclusão do Curso de Especialização em Desenvolvimento de Aplicativos para Dispositivos Móveis
+Trabalho de Conclusão do Curso de Especialização em Desenvolvimento de Aplicativos para Dispositivos Móveis.
+Abaixo estão listados os artefatos que servirão para completar o entendimento do projeto publicado no <a ref="https://medium.com/p/56d6a1d5fed3"> Medium </a>.
 
 ## [01 - Arquitetura do sistema](estrutura-banco-dados.md)
 
