@@ -17,17 +17,27 @@ A tela principal do MAS será denominada a "Home". Nela serão exibidas as lista
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR002 — Listas de Amigo Secreto]</h5>
 
 #### Tela de Visualização dos Participantes da Lista
+O acesso aos dados da lista também ocorrerá através de abas, evitando que o usuário tenha necessidade de acessar diversos menus ou telas.
+Ao visualizar a lista de amigo secreto desejado o usuário terá as opções de visualizar os participantes da lista selecionada.
 ![Preview](images/wireframe/WIR003.png?raw=true "Wireframe da tela de visualização dos participantes da lista - MAS")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR003 — Lista de Participantes]</h5>
 
+#### Tela de Visualização das Preferências de Presentes
+Ao visualizar a lista de amigo secreto desejado o usuário terá as opções de visualizar as sugestões de presentes da lista selecionada.
+![Preview](images/wireframe/WIR004.png?raw=true "Wireframe da tela de visualização das preferências de presentes - MAS")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR004 — Preferências de Presentes]</h5>
+
 #### Tela de Visualização do Amigo Secreto sorteado
+Ao visualizar a lista de amigo secreto desejado o usuário terá as opções de visualizar seu amigo secreto que foi sorteado na lista selecionada.
 ![Preview](images/wireframe/WIR004.png?raw=true "Wireframe da tela de visualização do amigo secreto sorteado - MAS")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR004 — Amigo Secreto Sorteado]</h5>
 
 #### Tela de Visualização do Perfil
+Tela com as informações básicas do usuário logado.
 ![Preview](images/wireframe/WIR005.png?raw=true "Wireframe da tela de visualização do Perfil - MAS")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR005 — Perfil do Usuário]</h5>
 
 #### Tela de Ajuda da aplicação
+Tela de ajuda do MAS com a lista das principais funcionalidades do App, com navegação em listas.
 ![Preview](images/wireframe/WIR006.png?raw=true "Wireframe da tela de ajuda - MAS")
 <h5>Fonte: Desenvolvido pelo autor do Projeto [Figura WIR006 — Ajuda do MAS]</h5>
