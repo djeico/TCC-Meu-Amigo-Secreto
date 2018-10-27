@@ -2,10 +2,29 @@
 Abaixo seguem as funcionalidades que estão disponíveis na aplicação e as funcionalidades que serão implementadas:
 
 ## a) Gerenciamento de Listas de amigo secreto
-Através desta funcionalidade será possível cadastrar as listas de amigo secreto, informando o valor mínimo do presente, a data do sorteio, data e local da confraternização - troca de presentes. Também será possível inserir os participantes na lista e enviar o convite aos mesmos. Para adicionar um participante à lista o administrador da lista deverá informar o nº de telefone do participante que deseja inserir. Apenas o participante que criou a lista poderá realizar alterações na mesma. Participantes da lista podem apenas visualizar os participantes da lista e as informações cadastradas pelo participante administrador.
+Através desta tela é possível cadastrar as listas de amigo secreto, clicando no ícone "+", localizado no canto inferior direito.
+Nesta tela serão exibidas as listas as quais o usuário faz parte ou
 
-![Preview](images/functionality/FUN001.png?raw=true "Figura ARQ002 — Estrutura MVC")
-<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura ARQ002 — Estrutura MVC]</h5>
+![Preview](images/functionality/FUN005.png?raw=true "Figura FUN005 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN005 — Recuperação de Senha]</h6>
+
+Após isso, o usuário será direcionado para o formulário de cadastro da lista de amigo secreto, conforme demonstrado na Figura FUN006.
+
+![Preview](images/functionality/FUN006.png?raw=true "Figura FUN006 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN006 — Cadastro de Listas de Amigo Secreto]</h6>
+
+O usuário deverá informar o valor mínimo do presente, a data do sorteio e a data da confraternização - troca de presentes. Também será possível inserir os participantes na lista - devendo o usuário inserir-se ou não, pois ele pode criar a lista e não participar.
+Para adicionar um participante à lista o administrador da lista deverá informar o nº de telefone do participante que deseja inserir. Apenas o participante que criou a lista poderá realizar alterações na mesma. Participantes da lista podem apenas visualizar os participantes da lista e as informações cadastradas pelo participante administrador.
+
+![Preview](images/functionality/FUN007.png?raw=true "Figura FUN007 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN007 — Cadastro de Listas de Amigo Secreto]</h6>
+
+
+
+
+
+
+
 
 ## b) Convidar pessoas para participar da lista
 Após o administrador da lista enviar o link do convite - é utilizada a própria API de envio do próprio dispositivo - as pessoas com esse link podem aceitar participar da lista ou rejeitar. Neste link terá um redirecionamento para o download do app e após a instalação e cadastro, o usuário receberá uma notificação de que foi convidado a participar da lista de amigo secreto. 
@@ -27,11 +46,22 @@ Para que todos os participantes saibam das alterações nas informações da lis
 
 ## g) Interface de cadastro de usuário
 Para acessar a aplicação, todos os usuários deverão efetuar o cadastro prévio para ter acesso aos dados da lista ou para criar novas listas de amigo secreto.
-Para realizar o cadastro é necessário que o usuário informe seu número de telefone com DDD, seu nome e defina uma senha de acesso. Após informar estes dados e confirmá-los, será exibida uma popup ao usuário para que ele insira o código que foi enviado via SMS para o número informado no cadastro.
-Este SMS é enviado para validar o número de telefone informado pelo usuário, com o objetivo de comprovar que ele realmente é portador do número informado no cadastro. Assim que o usuário inserir o código corretamente, ele será redirecionado para a tela principal da aplicação.
+Para realizar o cadastro é necessário que o usuário informe seu número de telefone com DDD, seu nome ou apelido e defina uma senha de acesso. Assim que o usuário inserir o código corretamente, ele será redirecionado para a tela principal da aplicação.
+Estes dados podem ser alterados através da tela de Perfil do Usuário, caso ele necessite.
+
+![Preview](images/functionality/FUN002.png?raw=true "Figura FUN002 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN002 — Cadastro de usuário]</h6>
 
 ## h) Interface para realizar login
-Na tela de login o usuário deverá informar o número de telefone com DDD e a senha que foram cadastrados previamente. Se os dados estiverem corretos ele será redirecionado para a tela principal da aplicação.
+Na tela de login o usuário deverá informar o número de telefone com DDD e a senha que foram cadastrados previamente. Se os dados estiverem corretos ele será redirecionado para a tela principal da aplicação. É nesta tela que eles poderão realizar o cadastro, clicando em "cadastre-se!". Também é possível redefinir a senha clicando em "Esqueceu sua senha?".
+
+![Preview](images/functionality/FUN003.png?raw=true "Figura FUN003 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN003 — Cadastro de usuário]</h6>
+
+Ao clicar em "Esqueceu sua senha?" será exibida uma Popup solicitando ao usuário que informe o telefone cadastrado com DDD.
+
+![Preview](images/functionality/FUN004.png?raw=true "Figura FUN004 — Cadastro de Usuário")
+<h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN004 — Recuperação de Senha]</h6>
 
 ## i) Interface para visualizar e editar o perfil
 O usuário terá uma opção para editar seus dados cadastrais. Através dessa interface será possível alterar dados como senha, nome e avatar. Não será possível alterar o número de telefone que foi cadastrado pelo usuário.
