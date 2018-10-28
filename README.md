@@ -21,3 +21,5 @@ Abaixo estão listados os artefatos que servirão para completar o entendimento 
 ## [09 - Modelo de Arquitetura](arquitetura.md)
 
 ## [10 - Funcionalidades do Sistema](funcionalidades-aplicacao.md)
+
+## [11 - Validação do Sistema](valiadao-aplicacao.md)
