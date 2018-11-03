@@ -38,3 +38,7 @@ O arquivo "*.json" com o banco de dados utilizado nesta etapa da validação est
 
 ## Terceira etapa da Validação
 Na terceira etapa da Validação o App MAS foi utilizado por um grupo de 17 pessoas.
+
+
+![Preview](images/validation/VAL005.png?raw=true "Figura VAL005 - Pergunta número um.")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura VAL005 - Pergunta número um.]</h5>
