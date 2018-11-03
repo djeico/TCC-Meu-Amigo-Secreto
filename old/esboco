@@ -1,0 +1,43 @@
+Abordagem de Desenvolvimento
+Para o desenvolvimento deste projeto foram aplicadas algumas técnicas da metodologia ágil denominada Scrum. Não foi possível aplicar a metodologia Scrum por completo, por uma questão de escopo e limitações deste projeto. Por essa razão, apenas alguns artefatos do Scrum foram utilizados a fim de auxiliar no desenvolvimento do projeto.
+Antes de detalhar o funcionamento do Scrum é importante entender o que é um Sprint. Segundo Desenvolvimento Ágil, 2013/2014,
+>No Scrum, os projetos são divididos em ciclos (tipicamente mensais) chamados de Sprints. O Sprint representa um Time Box dentro do qual um conjunto de atividades deve ser executado. Metodologias ágeis de desenvolvimento de software são iterativas, ou seja, o trabalho é dividido em iterações, que são chamadas de Sprints no caso do Scrum.
+Abaixo, segue uma relação dos elementos que compõe o Scrum e indicação de quais deles foram utilizados e quais não foram utilizados no projeto:
+a) Daily Scrum:
+No inicio de cada dia é feita uma reunião para se discutir o que foi feito no dia anterior, a fim de identificar possíveis problemas que possam impedir o andamento do projeto. Também são discutidas as prioridades do que será feito no dia que está iniciando. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Este item não foi utilizado no projeto, pois há apenas um desenvolvedor no projeto;
+b) Product Backlog:
+É basicamente uma lista que contém todas as funcionalidades que se deseja implementar no produto. Esta lista é definida pelo Product Owner do projeto e não é preciso que ela esteja completa para que o projeto seja iniciado. Pode-se iniciar o projeto com os itens mais relevantes que já foram levantados e à medida que o produto vai se tornando conhecido, o Product Backlog vai crescendo. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Este item foi utilizado, pois ele é fundamental para o desenvolvimento do projeto e organização das tarefas.
+c) Product Owner:
+É responsabilidade do Product Owner definir os itens que irão compor o Product Backlog. É ele quem prioriza esses itens na Sprint Planning Meetings. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+O Product Owner deste projeto é o desenvolvedor, que irá definir os itens e suas respectivas prioridades de desenvolvimento.
+d) Release Burndown:
+Em um projeto Scrum, a equipe acompanha o progresso do projeto, comparando o que foi programado nas Sprints, com o que já foi concluído em cada uma delas. Ao final de cada Sprint, um gráfico com eixo horizontal e outro vertical é atualizado com o que foi entregue na Sprint do dia. O eixo horizontal de um Release Burndown Chart representa as Sprints e o eixo vertical representa o total de trabalho que ainda resta para cada Sprint. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Este elemento não foi utilizado neste projeto, pois demandaria tempo para montar o gráfico e analisar os resultados. Além do mais, o escopo deste projeto não favoreceu a sua utilização.
+e) Scrum Master:
+É papel do Scrum Master garantir que todos da equipe sigam as práticas preconizadas pelo Scrum. É o Scrum Master quem gerencia a equipe de forma que ela não se exceda demais para garantir o cumprimento das Sprints. O objetivo é cumprir a Sprint de forma que não haja exageros em relação ao comprometimento da execução das Sprints do projeto. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Neste projeto não foi utilizado este papel, pois havia apenas o desenvolvedor.
+
+
+
+
+
+f) Scrum Team:
+É o time envolvido no projeto. É formado por desenvolvedores, arquitetos, analistas, etc. Não existem papeis pré-definidos em um Scrum Team, pois todos trabalham unidos para completar as Sprints do projeto. Pode ser composto por 6 a 10 pessoas. Mas isso depende do escopo do projeto, pode haver necessidade de criar times com mais de 10 pessoas, mas isso não é muito comum. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Devido ao fato deste TCC ser individual, apenas o autor pôde atuar no desenvolvimento deste projeto.
+
+
+g) Sprint Backlog:
+É uma lista de tarefas que serão executadas pela equipe em uma Sprint. O time coleta estes itens do Product Backlog, com base na prioridade que foi definida pelo Product Owner e também com base no tempo necessário para completar as funcionalidades. A equipe decidirá quantos itens do Product Backlog serão trazidos, assumindo o compromisso de implementá-los (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Foi utilizado. As funcionalidades deste projeto que compuseram cada Sprint foram definidas com base nestes critérios.
+h) Sprint Planning Meeting:
+Constitui-se em uma reunião realizada com todos os envolvidos no projeto. Isso inclui qualquer pessoa que represente o gerente ou o cliente no projeto. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Aqui o Product Owner descreve para a equipe as funcionalidades com maior importância. Depois desta reunião, a equipe tenta quebrar as funcionalidades em tarefas menores, dando origem ao Sprint Backlog. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Considerando a equipe que integrou este projeto, seria inviável utilizá-lo.
+i) Sprint Retrospective:
+Ocorre no final de um Sprint e serve como retrospectiva, com o intuito de analisar o que funcionou e o que precisa ser melhorado, além das ações necessárias para que essa melhora ocorra. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Esta prática foi realizada durante as orientações.
+j) Sprint Review Meeting:
+É realizado ao término de cada Sprint. Aqui o time apresenta o que foi finalizado na Sprint. Apesar de a equipe ter completado um dos itens do Product Backlog, é muito importante que a equipe atinja o objetivo geral do Sprint. (DESENVOLVIMENTO ÁGIL, 2013/2014);
+Foi utilizada. Esta prática foi realizada em conjunto com o cliente.
