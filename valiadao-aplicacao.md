@@ -34,6 +34,7 @@ Na segunda etapa, após análise dos dados coletados na primeira etapa, o aplica
 
 Como haviam 4 usuários com smartphone da Apple, foi desenvolvida uma interface web que possibilitasse ao usuário acessar a lista de amigo secreto, cadastrar e visualizar preferências de presentes e visualizar o seu amigo secreto que foi sorteado.
 A brincadeira feita através do MAS ocorreu como o esperado e ao final todos revelaram seus respectivos amigos secretos.
-O arquivo .json com o banco de dados utilizado nesta etapa da validação está disponível no Github <DB_FASE2.json>
+O arquivo "*.json" com o banco de dados utilizado nesta etapa da validação está disponível no <a href="https://github.com/djeico/TCC-Meu-Amigo-Secreto/blob/master/database/DB_FASE2.json">Github<a>, no link <https://github.com/djeico/TCC-Meu-Amigo-Secreto/blob/master/database/DB_FASE2.json>
 
 ## Terceira etapa da Validação
+Na terceira etapa da Validação o App MAS foi utilizado por um grupo de 17 pessoas.
