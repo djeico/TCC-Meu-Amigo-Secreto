@@ -10,7 +10,7 @@ Abaixo estão listados os artefatos que servirão para completar o entendimento 
 
 ## [04 - Product Backlog](product-backlog.md)
 
-## [05 - Product Backlog Item](product-backlog-item.md)
+## [05 - Sprint Backlog](sprint-backlog.md)
 
 ## [05 - Estórias de Usuários](estorias-usuarios.md)
 
