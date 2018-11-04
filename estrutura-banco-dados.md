@@ -1,15 +1,4 @@
 ## Representação do Banco de Dados - Collections
-[ colocar no medium: ]
-Para persistência dos dados foi utilizado o serviço Cloud Firestore do google firebase. segundo FIREBASE, 2018:
-
-> O Cloud Firestore é um banco de dados NoSQL orientado a documentos. Ao contrário de um banco de dados SQL, não há tabelas nem linhas. Em vez disso, os dados são armazenados em documentos, que são organizados em coleções.
-
-> Cada documento contém um conjunto de pares chave-valor. O Cloud Firestore é otimizado para armazenar grandes coleções de documentos pequenos.
-
->É necessário que todos os documentos sejam armazenados em coleções. Os documentos podem conter subcoleções e objetos aninhados, que podem incluir campos primitivos, como strings, ou objetos complexos, como listas.
-
-A apresentação detalhada de cada collection pode ser visualizada no <link>Github</link>
-[ colocar no medium: ]
 
 Os esquemas apresentados abaixo têm o objetivo de ilustrar o relacionamento dos objetos no banco de dados. Todas as coleções estão aninhadas dentro da collection lista. A base de dados é composta basicamente por dois documentos raízes: O documento "User" que é responsável por armazenar os dados do usuário. E o documento "lista", responsável por armazenar todos os dados das listas de amigo secreto. Este por sua vez, possui diversas collections aninhadas, conforme podemos visualizar abaixo:
 

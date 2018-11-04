@@ -46,10 +46,7 @@ Feito isso, será exibida uma Popup com um input onde o usuário deverá colocar
 ![Preview](images/functionality/FUN015B.png?raw=true "Figura FUN015B — Cadastro de Usuário")
 <h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN015B — Cadastro da Sugestão de Presente]</h6>
 
-## d) Troca de mensagens em grupo ou individualmente de forma anônima
-> [... Através da própria aplicação os participantes da lista poderão trocar mensagens com o grupo, ou seja, a lista de amigo secreto à qual fazem parte. Essas mensagens ficarão visíveis a todos os participantes da lista. Também terá a opção de troca de mensagem entre presenteados e presenteadores de forma anônima, o que garante o anonimato na brincadeira. ...]
-
-## e) Realização do sorteio sem que haja confusão - sortear a si próprio
+## d) Realização do sorteio sem que haja confusão - sortear a si próprio
 O sorteio só poderá ser realizado pelo administrador da lista e há garantia de que não haverá sorteios inválidos, ou seja, um participante presenteando a si próprio ou um participante sendo presenteado por mais de um participante da lista. Assim que o sorteio for realizado os participantes receberão uma notificação informando-os sobre o sorteio.
 O sorteio será justo e sem trapaças, não sendo possível selecionar critérios para favorecer ou desfavorecer o sorteio. Sendo assim, o sorteio será completamente aleatório.
 Para realizar o sorteio é muito simples: basta o administrador da lista clicar no terceiro na da lista desejada na tela principal do MAS. Em seguida, ele será questionado se deseja realmente realizar o sorteio. Caso responda sim, o sorteio será realizado, conforme ilustra a Figura FUN017.
@@ -57,10 +54,7 @@ Para realizar o sorteio é muito simples: basta o administrador da lista clicar 
 ![Preview](images/functionality/FUN017B.png?raw=true "Figura FUN017B — Realização do Sorteio da Lista")
 <h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN017B — Realização do Sorteio da Lista]</h6>
 
-## f) Manter os participantes atualizados sobre as informações da lista
-> [... Para que todos os participantes saibam das alterações nas informações da lista de amigo secreto à qual fazem parte e se mantenham atualizados, sempre que alguma modificação ocorrer na lista os participantes da lista serão notificados através de push notification. ...]
-
-## g) Interface de cadastro de usuário
+## e) Interface de cadastro de usuário
 Para acessar a aplicação, todos os usuários deverão efetuar o cadastro prévio para ter acesso aos dados da lista ou para criar novas listas de amigo secreto.
 Para realizar o cadastro é necessário que o usuário informe seu número de telefone com DDD, seu nome ou apelido e defina uma senha de acesso. Assim que o usuário inserir o código corretamente, ele será redirecionado para a tela principal da aplicação.
 Estes dados podem ser alterados através da tela de Perfil do Usuário, caso ele necessite.
@@ -68,7 +62,7 @@ Estes dados podem ser alterados através da tela de Perfil do Usuário, caso ele
 ![Preview](images/functionality/FUN002.png?raw=true "Figura FUN002 — Cadastro de Usuário")
 <h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN002 — Cadastro de usuário]</h6>
 
-## h) Interface para realizar login
+## f) Interface para realizar login
 Na tela de login o usuário deverá informar o número de telefone com DDD e a senha que foram cadastrados previamente. Se os dados estiverem corretos ele será redirecionado para a tela principal da aplicação. É nesta tela que eles poderão realizar o cadastro, clicando em "cadastre-se!". Também é possível redefinir a senha clicando em "Esqueceu sua senha?".
 
 ![Preview](images/functionality/FUN003.png?raw=true "Figura FUN003 — Tela de Login")
@@ -79,7 +73,7 @@ Ao clicar em "Esqueceu sua senha?" será exibida uma Popup solicitando ao usuár
 ![Preview](images/functionality/FUN004.png?raw=true "Figura FUN004 — Recuperação de Senha")
 <h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN004 — Recuperação de Senha]</h6>
 
-## i) Interface para visualizar e editar o perfil
+## g) Interface para visualizar e editar o perfil
 Clicando na aba "Perfil" o usuário poderá editar seus dados cadastrais, caso necessite. Será possível alterar dados como nome e avatar. Não será possível alterar o número de telefone que foi cadastrado pelo usuário.
 
 ![Preview](images/functionality/FUN020.png?raw=true "Figura FUN020 — Visualização e edição de Perfil - Nome")
@@ -91,7 +85,7 @@ A imagem do avatar é definida inicialmente com uma imagem default do sistema. O
 <h6>Fonte: Desenvolvido pelo autor do Projeto [Figura FUN020B — Visualização e edição de Perfil - Avatar]</h6>
 
 
-## j) Visualização do respectivo amigo secreto, obtido após a realização do sorteio
+## h) Visualização do respectivo amigo secreto, obtido após a realização do sorteio
 Cada participante poderá visualizar o seu amigo secreto correspondente, à quem deverá presentear. Para saber qual o seu amigo secreto que foi sorteado o usuário deverá selecionar a lista desejada e depois clicar na quarta aba, a aba que possui um "emoticon sorrindo". Por segurança, o amigo secreto não será exibido imediatamente ao acessar esta aba. Para ver quem é o amigo secreto, o usuário deverá "revelar" seu amigo secreto clicando no ícone do cadeado, conforme Figura FUN021.  
 
 ![Preview](images/functionality/FUN021.png?raw=true "Figura FUN021 — Visualização do amigo secreto Sorteado - Escondido")
