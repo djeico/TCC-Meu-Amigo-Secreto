@@ -56,7 +56,7 @@ Foi adicionado um parágrafo de encerramento onde isto é especificado.
 • Faltou um diagrama da arquitetura do sistema, texto ok.
 </blockquote>
 
-Não foi identificada a necessidade de utilização de um Diagrama de Arquitetura do Sistema mais detalhado, tendo em vista que a figura ARQ002 demonstra a arquitetura de forma geral.
+Não foi identificada a necessidade de utilização de um Diagrama de Arquitetura do Sistema mais detalhado, tendo em vista que a figura ARQ002 demonstra a arquitetura de forma geral e no <a href="https://github.com/djeico/TCC-Meu-Amigo-Secreto/blob/master/arquitetura.md#modelo-de-arquitetura">Github, em Representação da Arquitetura</a> a figura ARQ002 também demonstra.
 
 <blockquote>
 • Trello Board not found.
@@ -75,4 +75,4 @@ No projeto existem critérios que definem qual a numeração para cada um dos n�
 O aplicativo aparece prints das telas de validação como descontinuado e não publicado.
 </blockquote>
 
-De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android.
+De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android. Também foram inseridas duas imagens do app MAS
