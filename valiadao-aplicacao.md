@@ -39,6 +39,18 @@ O arquivo "*.json" com o banco de dados utilizado nesta etapa da validação est
 ## Terceira etapa da Validação
 Na terceira etapa da Validação o App MAS foi utilizado por um grupo de 17 pessoas.
 
+![Preview](images/validation/VAL014.png?raw=true "Figura VAL014 - Relatório do app MAS para a segunda versão")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura VAL014 - Relatório do app MAS para a terceira versão]</h5>
+
+Alguns usuários optaram por utilizar a versão PWA do MAS, sendo que no total de 8 decidiram utilizar o app Nativo para Android, conforme Figura VAL015.
+
+![Preview](images/validation/VAL015.png?raw=true "Figura VAL015 - Relatório do app MAS para a segunda versão")
+<h5>Fonte: Desenvolvido pelo autor do Projeto [Figura VAL015 - Relatório do app MAS para a terceira versão]</h5>
+
+
+
+
+
 ### Perfil dos Usuários
 Conforme demonstrado na Figura VAL005, verificou-se que a maioria dos usuários do app MAS possui mais de 40 anos de idade. Sendo assim, é um grande desafio introduzir uma solução digital para uma brincadeira que faz parte da vida de muitas pessoas. É importante salientar que houve um pequeno equívoco na definição dos critérios da faixa etária desta questão: onde consta a alternativa "12 - 12 anos", deve-se entender 12 - 18 anos. Este equívoco não influenciou no resultado deste teste.
 
