@@ -23,3 +23,5 @@ Abaixo estão listados os artefatos que servirão para completar o entendimento 
 ## [10 - Funcionalidades do Sistema](funcionalidades-aplicacao.md)
 
 ## [11 - Validação do Sistema](valiadao-aplicacao.md)
+
+## [12 - Ajustes Referentes à Avaliação do TCC](ajustes_ref_parecer_banca.md)
