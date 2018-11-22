@@ -74,4 +74,4 @@ No projeto existem critérios que definem qual a numeração para cada um dos n�
 O aplicativo aparece prints das telas de validação como descontinuado e não publicado.
 </blockquote>
 
-De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android. Também foram inseridas novas imagens do app MAS referentes à etapa 3 da validação.
+De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android. Também foram inseridas novas imagens do app MAS referentes à etapa 3 da validação. São as figuras VAL014 e VAL015.
