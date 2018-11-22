@@ -49,8 +49,7 @@ Não ficou claro qual o diferencial entre esta solução e todas as existentes
 (correlatas).
 </blockquote>
 
-Foi adicionado um parágrafo de encerramento onde isto é especificado.
-
+Foi adicionado um parágrafo de encerramento especificando o diferencial do MAS frente às opções disponíveis no mercado, conforme pode ser observado em "Aplicativos Correlatos", no <a href="">Medium</a>.
 ### Arquitetura
 <blockquote>
 • Faltou um diagrama da arquitetura do sistema, texto ok.
@@ -75,4 +74,4 @@ No projeto existem critérios que definem qual a numeração para cada um dos n�
 O aplicativo aparece prints das telas de validação como descontinuado e não publicado.
 </blockquote>
 
-De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android. Também foram inseridas duas imagens do app MAS
+De fato, estes prints de aplicativos são referentes às partes 1 e 2 que foram citadas em <a href="https://medium.com/@jaquissonnunes/tcc-meuamigosecreto-56d6a1d5fed3">"Estratégia de Validação"</a>. Foram descontinuados, pois foram desenvolvidos apenas para dispositivos com Sistema Android. Também foram inseridas novas imagens do app MAS referentes à etapa 3 da validação.
